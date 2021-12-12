@@ -1,2 +1,2 @@
 # Picrust_altair
-Plot PicRust2 using altar
+Plot PicRust2 results using altar
